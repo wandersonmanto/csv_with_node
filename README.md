@@ -86,6 +86,11 @@ npm install --save multer
 npm install --save @types/multer  
 import multer in src/routes.ts
 
+## Obs.
+Todos os console.logs comentados em src/routes.ts  
+foram deixados para vificação dos pontos em que a plicação foi testada  
+a medida que ia sendo contruido. Os retornos de cada um deles ajuda a entender a evolução da aplicação.
+
 
 
 
